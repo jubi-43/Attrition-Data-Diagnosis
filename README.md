@@ -1,4 +1,4 @@
-# Attrition-Data-Analysis
+# Attrition-Data-Diagnosis
 Attritiion Data Analyis - Visual Rrepresentation using PowerBi
 **To identify, visualize, and diagnose employee attrition patterns across demographics, roles, and departments using Power BI, enabling data-driven retention and workforce planning decisions.**
 
