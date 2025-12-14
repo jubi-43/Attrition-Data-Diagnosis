@@ -29,4 +29,5 @@ Attritiion Data Analyis - Visual Rrepresentation using PowerBi
 7. How can attrition be filtered by business unit?
    VISUALS: SLICER (filter attrition insights by department (HR, R&D, Sales).
 
-Attrition Data Analysis Dashboard](https://raw.githubusercontent.com/jubi-43/Attrition-Data-Analysis/main/Attrition%20Data%20Analysis.png)
+![Attrition Data Analysis Dashboard](Attrition%20Data%20Analysis.png)
+
