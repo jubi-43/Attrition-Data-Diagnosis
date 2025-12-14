@@ -22,9 +22,11 @@ Attritiion Data Analyis - Visual Rrepresentation using PowerBi
    VISUALS: DONUT CHARTS (attrition composition by education qualification)
    TAKEAWAYS: Upskilling & role enrichment matter more than pay hikes here
 
-7. Which job roles are most vulnerable to attrition?
+6. Which job roles are most vulnerable to attrition?
    VISUALS: HORIZONTAL BAR CHART(rank job roles by attrition volume)
    TAKEWAYS: Attrition is highest in execution-heavy, pressure-intensive roles, not decision-making roles
 
-8. How can attrition be filtered by business unit?
+7. How can attrition be filtered by business unit?
    VISUALS: SLICER (filter attrition insights by department (HR, R&D, Sales).
+
+ "C:\Users\jubif\Downloads\Attrition Data Analysis.png"
